@@ -1,0 +1,23 @@
+{
+  "name": "accordion",
+  "version": "0.0.3",
+  "description": "Basic (vertical) accordion component",
+  "main": "node-index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ericgj/accordion"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/ericgj/accordion",
+  "dependencies": {
+    "component-classes": "^1.2.4",
+    "component-emitter": "^1.2.0"
+  }
+}
